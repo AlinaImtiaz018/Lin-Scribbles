@@ -7,6 +7,11 @@ This font is generated from real handwritten samples and designed to preserve
 the natural flow, imperfections, and personality of human writing.
 
 ## Preview
+- English
+<img width="970" height="329" alt="linscribbles-english" src="https://github.com/user-attachments/assets/b06ce618-416b-4377-9144-afa80ff5db28" />
+
+- Numbers
+<img width="320" height="72" alt="linscribbles-numbers" src="https://github.com/user-attachments/assets/55cc7a71-aad0-4c01-a0bc-8aa375c66ab5" />
 
 
 ## Features
